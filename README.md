@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/juadde/i3status/stargazers"><img src="https://img.shields.io/github/stars/juadde/i3status?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/juadde/i3status/issues"><img src="https://img.shields.io/github/issues/juadde/i3status?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/juadde/i3status/contributors"><img src="https://img.shields.io/github/contributors/juadde/i3status?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/juadde/i3status/stargazers"><img src="https://img.shields.io/github/stars/juadde/i3status?labelColor=363a4f&color=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/juadde/i3status/issues"><img src="https://img.shields.io/github/issues/juadde/i3status?labelColor=363a4f&color=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/juadde/i3status/contributors"><img src="https://img.shields.io/github/contributors/juadde/i3status?labelColor=363a4f&color=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
